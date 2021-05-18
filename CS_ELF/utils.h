@@ -1,6 +1,7 @@
 #pragma once
 
 int Run();
+VOID GetPlayerAddress();
 VOID WINAPI HealthPoint(HANDLE hCS);
 VOID WINAPI Bullet(HANDLE hCS);
 VOID WINAPI MoneyAndBuy(HANDLE hCS);

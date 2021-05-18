@@ -26,16 +26,8 @@ BOOL APIENTRY DllMain( HMODULE hModule,
 #ifdef _DEBUG
 int main() {
 	Run();
-
-	
-
 	system("pause");
-
 	return 0;
 }
 
 #endif
-
-
-
-
