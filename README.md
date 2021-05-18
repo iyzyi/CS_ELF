@@ -38,7 +38,7 @@ release下编译得到的dll目前用不到。以后写透视的话才会用到�
 
 ## 截图
 
-![image-20210518195355638](D:\文档\Typora\image\README\image-20210518195355638.png)
+![image-20210518195355638](http://image.iyzyi.com/img/20210518195733.png)
 
-![image-20210518195451729](D:\文档\Typora\image\README\image-20210518195451729.png)
+![image-20210518195451729](http://image.iyzyi.com/img/20210518195736.png)
 
